@@ -52,7 +52,7 @@
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-| Project & Repository 📦 | GitHub Stars ⭐ | Stargazers Link 🔗 | Description 📝 |
+| Project & Repository 📦 | GitHub_Stars ⭐ | Stargazers Link 🔗 | Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[Traefik](https://github.com/traefik/traefik)** | [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | [traefik/stargazers](https://github.com/traefik/traefik/stargazers) | Popular open-source cloud-native application proxy and Ingress Controller with native Kubernetes, Docker, and Gateway API support. |
 | **[Cilium](https://github.com/cilium/cilium)** | [![Stars](https://img.shields.io/github/stars/cilium/cilium?style=social&color=white)](https://github.com/cilium/cilium/stargazers) | [cilium/stargazers](https://github.com/cilium/cilium/stargazers) | eBPF-based networking, security, and observability engine featuring high-performance Ingress Controller and Gateway API support. |
